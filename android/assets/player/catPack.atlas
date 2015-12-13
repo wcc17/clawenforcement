@@ -1,0 +1,75 @@
+
+catPack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+movingblink1Cat3
+  rotate: false
+  xy: 1, 384
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
+movingblink2Cat3
+  rotate: false
+  xy: 1, 0
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
+movingCat1
+  rotate: false
+  xy: 515, 384
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
+movingCat2
+  rotate: false
+  xy: 515, 0
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
+movingCat3
+  rotate: false
+  xy: 1029, 384
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
+movingscratch1Cat3
+  rotate: false
+  xy: 1029, 0
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
+movingscratch2Cat3
+  rotate: false
+  xy: 1543, 384
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
+movingscratch3Cat3
+  rotate: false
+  xy: 1543, 0
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
+standingBlink1
+  rotate: false
+  xy: 2057, 384
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
+standingBlink2
+  rotate: false
+  xy: 2057, 0
+  size: 512, 384
+  orig: 512, 384
+  offset: 0, 0
+  index: -1
